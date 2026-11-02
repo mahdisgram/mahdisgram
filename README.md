@@ -1,16 +1,21 @@
-## Hi there 👋
+# Mahdis Ghorbani
 
-<!--
-**mahdisgram/mahdisgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Growth Marketing · AI Automation · SEO**
 
-Here are some ideas to get you started:
+I work at the intersection of marketing, search, and AI automation, with a focus on turning business goals into clear, practical workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Visit mahdisgram.ir](https://mahdisgram.ir)
+
+## Focus
+
+- **Growth marketing:** customer journeys, content strategy, and measurable experiments.
+- **AI automation:** connecting tools and reducing repetitive marketing work.
+- **SEO:** understanding search intent and finding opportunities to improve organic visibility.
+
+## Portfolio
+
+This GitHub portfolio is being developed. Documented projects will be featured here as public implementations become available, with a clear problem, approach, setup guide, and evidence of results where measured.
+
+## Work with me
+
+For marketing, SEO, and AI automation collaborations, visit [mahdisgram.ir](https://mahdisgram.ir).
